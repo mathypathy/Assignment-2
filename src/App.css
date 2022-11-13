@@ -1,0 +1,47 @@
+/* HOME*/
+/* General stuff */
+@import "./Sections/General.css";
+
+/* Navbar */
+@import "./Sections/MainMenu/MainMenu.css";
+
+/* Showcase */
+@import "./Sections/ShowCase/ShowCase.css";
+
+/* Start banner */
+@import "./Sections/StartBanner/StartBanner.css";
+
+/* Featured-Products/productgrid */
+@import "./Sections/ProductGridToHomeView/ProductGridSection.css";
+
+
+/* Banner two */
+@import "./Sections/BannerTwo/BannerTwo.css";
+
+@import "./Sections/Specialitys/SpecialitySection.css";
+
+/* Flash sale */
+
+@import "./Sections/FlashSale/FlashSale.css";
+
+/* Company Info */
+@import "./Sections/CompanyInfo/CompanyInfoSection.css";
+
+
+/*Footer*/
+@import "./Sections/Footer/Footer.css";
+
+/* CONTACT VIEW */
+/* Contact section */
+
+@import "./Sections/Contact/Map/MapSection.css";
+@import "./Sections/Contact/ContactForm/ContactFormSection.css";
+@import "./Sections/Contact/Directory/DirectorySection.css";
+
+
+/* off sales*/
+@import "./Sections/OffSales/OffSalesSection.css";
+
+
+/* Product view */ 
+@import "./Sections/ProductGridToProductView/ProductGridToProductView.css";
